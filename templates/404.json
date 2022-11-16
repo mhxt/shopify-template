@@ -1,11 +1,11 @@
 {
-  "sections": {
-    "demo": {
-      "type": "demo",
-      "settings": {}
-    }
-  },
-  "order": [
-    "demo"
-  ]
+    "sections": {
+        "demo": {
+            "type": "demo",
+            "settings": {}
+        }
+    },
+    "order": [
+        "demo"
+    ]
 }

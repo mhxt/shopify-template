@@ -1,1 +1,11 @@
-{}
+{
+    "sections": {
+        "demo": {
+            "type": "demo",
+            "settings": {}
+        }
+    },
+    "order": [
+        "demo"
+    ]
+}
